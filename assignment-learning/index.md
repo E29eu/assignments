@@ -1,6 +1,6 @@
 # Learning Assignment
 
-Publish a simple Markdown webpage with GitHub. You only need a web browser and a free GitHub account. We write and publish all our websites in Markdown on GitHub, so every team member uses it from day one. This assignment tests your willingness and ability to learn.
+Publish a simple Markdown webpage with GitHub. You only need a web browser and a free GitHub account. We write and publish all our websites in Markdown on GitHub, so every team member uses it from day one. This assignment tests your willingness and ability to learn new tools.
 
 **Resources:**
 
