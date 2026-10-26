@@ -18,7 +18,7 @@ Publish a simple webpage in Markdown with GitHub. You only need a web browser an
    - one bulleted list and one numbered list
    - bold and italic text
    - a link to <https://e29.eu>
-   - one image from public domain (CC0 license, e.g. from <https://www.flickr.com/commons>) that you upload to the repository and show on the page
+   - one image from public domain (CC0 license) that you upload to the repository and show on the page
 4. Publish the page with GitHub Pages: **Settings > Pages > Deploy from a branch > main / (root)**. After a few minutes your page is live at `https://<your-username>.github.io/<your-full-name>-e29-assignment/`.
 5. Add a table to the webpage through a pull request: create a new branch, add a table with radom data to index.md, open a pull request and merge it. Check that the live page shows the change.
 
