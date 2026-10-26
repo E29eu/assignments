@@ -11,7 +11,7 @@ Publish a simple webpage in Markdown with GitHub. You only need a web browser an
 **Assignment:**
 
 1. Create a free account on [github.com](https://github.com/signup) (skip if you already have one).
-2. Create a new repository named **<your-full-name>-e29-assignment** and make it **Public**.
+2. Create a new repository named `<your-full-name>-e29-assignment` and make it `Public`.
 3. In your repository, create a file named **index.md** that contains:
    - a title (heading level 1) and at least two section headings (level 2)
    - a short paragraph
